@@ -2,7 +2,5 @@
 Erstes Repository als Test für die Anlage
 
 Das ist der Text den ich im Editor in GitHub eingefügt habe.
-README ist im Mardown hinterlegt. 
-
-Pfund (#) = Fett
-# fett
+README ist als Markdown hinterlegt. 
+https://www.markdownguide.org/cheat-sheet/
